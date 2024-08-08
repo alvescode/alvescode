@@ -5,7 +5,7 @@
 [![Badge do LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alvescode/)](https://www.linkedin.com/in/alvescode/)
 [![Badge do Medium](https://img.shields.io/badge/-Medium-black?style=flat-square&logo=medium&logoColor=white&link=https://www.github.com/in/alvescode/)](https://medium.com/@alvescode/pensamento-computacional-para-iniciantes-em-programa%C3%A7%C3%A3o-como-sistematizar-a-solu%C3%A7%C3%A3o-de-problemas-6d3900145451)
 
-<p> Me chamo Vítor e sou estudante de Ciência da Computação no Instituto Federal de São Paulo - campus Salto. </p>
+<p>Sou estudante de Ciência da Computação no Instituto Federal de São Paulo - campus Salto. </p>
 <p>Tenho familiaridade com diversas áreas da computação e interesse por desenvolvimento, tecnologia e inovação.</p>
 <p>Aqui no GitHub, compartilho alguns estudos e projetos pessoais.</p>
 
