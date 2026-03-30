@@ -8,7 +8,7 @@ I am passionate about technology and problem-solving. I enjoy transforming ideas
 
 ### 💻 Languages and Technologies
 
-HTML
+<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" style="width: 40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" style="width: 40px"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" style="width: 40px">
 <!--
 **alvescode/alvescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
