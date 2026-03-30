@@ -6,6 +6,9 @@ My name is David Emanuel, I am from Ceará, Brazil. I am currently focused on be
 
 I am passionate about technology and problem-solving. I enjoy transforming ideas into real applications, improving my skills in logic, code organization, and modern development practices.
 
+### 💻 Languages and Technologies
+
+HTML
 <!--
 **alvescode/alvescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
