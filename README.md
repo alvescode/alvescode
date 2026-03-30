@@ -8,7 +8,13 @@ I am passionate about technology and problem-solving. I enjoy transforming ideas
 
 ### 💻 Languages and Technologies
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" style="width: 35px"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" style="width: 35px"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg" style="width: 35px"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" style="width: 35px"> <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" style="width: 35px">
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" style="width: 35px"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" style="width: 35px"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/bootstrap/bootstrap-original.svg" style="width: 38px"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/javascript/javascript-original.svg" style="width: 35px"> &nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/git/git-original.svg" style="width: 35px">
+</div>
 <!--
 **alvescode/alvescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
