@@ -1,4 +1,10 @@
-## Hi there 👋
+## 🧑‍💻 David Emanuel
+
+Web Developer | JavaScript | Future Full Stack Developer
+
+My name is David Emanuel, I am from Ceará, Brazil. I am currently focused on becoming a Full Stack Developer, building a solid foundation in web development through practical projects and continuous learning.
+
+I am passionate about technology and problem-solving. I enjoy transforming ideas into real applications, improving my skills in logic, code organization, and modern development practices.
 
 <!--
 **alvescode/alvescode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
