@@ -30,6 +30,8 @@ I’m always looking to learn new technologies, put my knowledge into practice t
 <div align=center>
 
 [![GitHub stats](https://github-stats-extended.vercel.app/api?username=alvescode&theme=transparent&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+  
+![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 </div>
 
