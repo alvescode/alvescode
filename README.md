@@ -21,7 +21,7 @@ I’m always looking to learn new technologies, put my knowledge into practice t
 ---
 
 ### 🛠 Tools
-[![tools](https://skillicons.dev/icons?i=vscode,git,github)](https://skillicons.dev)
+[![tools](https://skillicons.dev/icons?i=vscode,git,github,linux)](https://skillicons.dev)
 
 ---
 
