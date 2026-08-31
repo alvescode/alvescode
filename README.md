@@ -29,7 +29,7 @@ I’m always looking to learn new technologies, put my knowledge into practice t
 
 <div align=center>
 
-[![GitHub stats](https://github-stats-extended.vercel.app/api?username=alvescode&theme=transparent&show_icons=true)](https://github.com/stats-organization/github-stats-extended)
+![GitHub Stats](https://github-readme-stats-sage-nine-73.vercel.app/api?username=alvescode&show_icons=true&hide_border=true&theme=transparent)
   
 ![snake](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
